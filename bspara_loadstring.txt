@@ -1,0 +1,4 @@
+-- this ui library is created by ai (Gemini, ChatGPT)
+-- owner: gungum (i skidded this from him lmao)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/houseguynew/ui/refs/heads/main/bspara_raw.txt"))()
